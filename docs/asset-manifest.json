@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/stock-charts/static/js/main.3be59e55.chunk.js",
-    "main.js.map": "/stock-charts/static/js/main.3be59e55.chunk.js.map",
-    "runtime-main.js": "/stock-charts/static/js/runtime-main.6a137d14.js",
-    "runtime-main.js.map": "/stock-charts/static/js/runtime-main.6a137d14.js.map",
-    "static/js/2.09a26e87.chunk.js": "/stock-charts/static/js/2.09a26e87.chunk.js",
-    "static/js/2.09a26e87.chunk.js.map": "/stock-charts/static/js/2.09a26e87.chunk.js.map",
-    "index.html": "/stock-charts/index.html",
-    "static/js/2.09a26e87.chunk.js.LICENSE.txt": "/stock-charts/static/js/2.09a26e87.chunk.js.LICENSE.txt"
+    "main.js": "/daily-stock-charts/static/js/main.3be59e55.chunk.js",
+    "main.js.map": "/daily-stock-charts/static/js/main.3be59e55.chunk.js.map",
+    "runtime-main.js": "/daily-stock-charts/static/js/runtime-main.6a137d14.js",
+    "runtime-main.js.map": "/daily-stock-charts/static/js/runtime-main.6a137d14.js.map",
+    "static/js/2.09a26e87.chunk.js": "/daily-stock-charts/static/js/2.09a26e87.chunk.js",
+    "static/js/2.09a26e87.chunk.js.map": "/daily-stock-charts/static/js/2.09a26e87.chunk.js.map",
+    "index.html": "/daily-stock-charts/index.html",
+    "static/js/2.09a26e87.chunk.js.LICENSE.txt": "/daily-stock-charts/static/js/2.09a26e87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6a137d14.js",
